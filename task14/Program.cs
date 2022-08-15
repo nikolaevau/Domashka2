@@ -1,4 +1,4 @@
-﻿// Задача 14. Напишите программу, которая принимает на вход число
+﻿// Задача 14. 
 
 Console.WriteLine("Введите число");
 int numberA = Convert.ToInt32(Console.ReadLine());
